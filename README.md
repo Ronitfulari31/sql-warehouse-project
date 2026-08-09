@@ -30,10 +30,9 @@ This project involves:
 - Data Modeling  
 
 ---
-🛠️ Important Links & Tools:
-Everything is for Free!
-
+**🛠️ Important Links & Tools:**
 [DATASET](datasets/): Access to the project dataset (csv files).
+
 [Notion](https://app.notion.com/p/SQL-DATA-WAREHOUSE-3b109e653653802c83d0ddc4b61f3135?source=copy_link): Get the Project Template from Notion
 
 ## 🚀 Project Requirements
