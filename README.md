@@ -33,7 +33,7 @@ This project involves:
 🛠️ Important Links & Tools:
 Everything is for Free!
 
-Datasets ![Data Architecture](datasets): Access to the project dataset (csv files).
+[DATASET](datasets/): Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
 Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
